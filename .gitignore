@@ -1,0 +1,6 @@
+# IntellijIdea files
+*.iml
+.idea
+.gradle
+target
+/out/artifacts/lemhomework24_war_exploded/
